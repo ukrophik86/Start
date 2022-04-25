@@ -1,9 +1,10 @@
-
+#include <stdio.h>
 
 int main()
 {
-	int a;
+	int a,b;
 
 	a=3;
-	printf("a=%d\n");
+	b=4;
+	printf("a=%d\nb=%d\n",a,b);
 }
